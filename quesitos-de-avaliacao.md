@@ -12,7 +12,7 @@ potenciais projetos.
 
 O problema é que, enquanto HTML5 permite uma flexibilidade maravilhosa, e a
 web evoluiu a um ponto de permitir validar marcação HTML sem prejudicar
-significativamente qualidade do resultado final, por outro praticamente
+significativamente qualidade do resultado final, por outro lado praticamente
 todos os principais frameworks de CSS usados no mercado não são validados
 nesta ferramenta.
 
